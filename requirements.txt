@@ -1,0 +1,13 @@
+jupyterlab
+pandas
+numpy
+sklearn
+matplotlib
+xlrd
+openpyxl
+Mlxtend
+seaborn
+statsmodels
+ipympl
+# jupyterthemes
+pylint
